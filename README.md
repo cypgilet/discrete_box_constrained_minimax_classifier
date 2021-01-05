@@ -1,6 +1,6 @@
 # Discrete Box-Constrained Minimax Classifier for Uncertain and Imbalanced Class Proportions
 
-These algorithms are provided in the hope that they will be useful. 
+This repository contains the algorithms of our Discrete Box-Constrained Minimax Classifier. 
 
 Please cite our associated papers: 
 
