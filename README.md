@@ -13,3 +13,8 @@ We provide here:
 + A folder (named "(Python) Discrete Box-Constrained Minimax Classifier") containing an example of how to use our box-constrained minimax classifier algorithm for any classification tasks in Python.
 
 The authors sincerely thank Marie Guyomard for her contributions and her precious help in this project.
+
+#### More informations about my PhD Thesis:
+
++ My PhD Manuscript (in English) is available here: https://tel.archives-ouvertes.fr/tel-03553934
++ My PhD Defense (in French) is available here: https://www.youtube.com/watch?v=KNAoOsIPD6M
